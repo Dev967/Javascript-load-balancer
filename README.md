@@ -5,7 +5,7 @@ Initially built for a hackathon the above project is a great for understanding t
 
 The problem statement is as follows: there is a database that is being updated in realtime, in the records contains user action. The objective is to show realtime frequency of each action. e.g. event1: 10, event2: 2, event3: 45.
 
-![](assets/dist-computing-simulator.png)
+![](assets/dist-computing-simulation.png)
 
 # Working
 There are two main components of this project
